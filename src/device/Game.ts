@@ -42,5 +42,3 @@ export class Game{
     this.score = 0
   }
 }
-
-new Game()
