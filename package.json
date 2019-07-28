@@ -1,0 +1,28 @@
+{
+  "name": "tabletop-basketball",
+  "version": "1.0.0",
+  "description": "A game with three switch sensors, nodejs server, and a display driven by web technologies.",
+  "main": "index.js",
+  "dependencies": {
+    "rxjs": "^6.5.2"
+  },
+  "devDependencies": {
+    "ts-node": "^8.3.0",
+    "typescript": "^3.5.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AckerApple/tabletop-basketball.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AckerApple/tabletop-basketball/issues"
+  },
+  "homepage": "https://github.com/AckerApple/tabletop-basketball#readme"
+}
